@@ -1,0 +1,8 @@
+file php.ini tương đương vơi file config, dùng để chỉnh các thông số
+
+Cách khai báo biến
+$ten_bien;
+***
+
+setup dự án lên git
+cuối ngày, push code lên git để đồng bộ. Sau đó lên sandbox pull code trên sandbox về
