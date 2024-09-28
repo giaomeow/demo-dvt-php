@@ -20,6 +20,7 @@ echo ($bien_a);
 
 $NN_1="Xin chào";
 $NN_2="Các bạn";
+$NN_3="Các bạn lalal";
 
 
 echo $NN_1, " và ", $NN_2;
